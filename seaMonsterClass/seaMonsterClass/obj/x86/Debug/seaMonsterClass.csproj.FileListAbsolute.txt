@@ -1,0 +1,6 @@
+/Users/quentonbuss/Desktop/seaMonsterClass/seaMonsterClass/bin/Debug/seaMonsterClass.exe
+/Users/quentonbuss/Desktop/seaMonsterClass/seaMonsterClass/bin/Debug/seaMonsterClass.pdb
+/Users/quentonbuss/Desktop/seaMonsterClass/seaMonsterClass/obj/x86/Debug/seaMonsterClass.csprojAssemblyReference.cache
+/Users/quentonbuss/Desktop/seaMonsterClass/seaMonsterClass/obj/x86/Debug/seaMonsterClass.csproj.CoreCompileInputs.cache
+/Users/quentonbuss/Desktop/seaMonsterClass/seaMonsterClass/obj/x86/Debug/seaMonsterClass.exe
+/Users/quentonbuss/Desktop/seaMonsterClass/seaMonsterClass/obj/x86/Debug/seaMonsterClass.pdb
