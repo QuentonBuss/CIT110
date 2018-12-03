@@ -1,0 +1,6 @@
+/Users/quentonbuss/Desktop/capstoneProject/capstoneProject/obj/x86/Debug/capstoneProject.csprojAssemblyReference.cache
+/Users/quentonbuss/Desktop/capstoneProject/capstoneProject/obj/x86/Debug/capstoneProject.csproj.CoreCompileInputs.cache
+/Users/quentonbuss/Desktop/capstoneProject/capstoneProject/bin/Debug/capstoneProject.exe
+/Users/quentonbuss/Desktop/capstoneProject/capstoneProject/bin/Debug/capstoneProject.pdb
+/Users/quentonbuss/Desktop/capstoneProject/capstoneProject/obj/x86/Debug/capstoneProject.exe
+/Users/quentonbuss/Desktop/capstoneProject/capstoneProject/obj/x86/Debug/capstoneProject.pdb
